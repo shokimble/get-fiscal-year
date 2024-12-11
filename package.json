@@ -40,5 +40,6 @@
       "@babel/preset-env",
       "@babel/preset-typescript"
     ]
-  }
+  },
+  "packageManager": "yarn@4.3.1"
 }
